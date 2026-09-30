@@ -1,0 +1,92 @@
+{
+  "library": "Guzheng (Bowed Sliced)",
+  "format": "opus-48k+flac",
+  "opusFileCount": 11,
+  "flacFileCount": 11,
+  "files": [
+    {
+      "file": "slice_0007_midi070.opus",
+      "name": "slice_0007_midi070",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0007_midi070.opus",
+      "size": 1380
+    },
+    {
+      "file": "slice_0042_midi058.opus",
+      "name": "slice_0042_midi058",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0042_midi058.opus",
+      "size": 7493
+    },
+    {
+      "file": "slice_0043_midi060.opus",
+      "name": "slice_0043_midi060",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0043_midi060.opus",
+      "size": 5667
+    },
+    {
+      "file": "slice_0044_midi061.opus",
+      "name": "slice_0044_midi061",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0044_midi061.opus",
+      "size": 15724
+    },
+    {
+      "file": "slice_0138_midi051.opus",
+      "name": "slice_0138_midi051",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0138_midi051.opus",
+      "size": 35143
+    },
+    {
+      "file": "slice_0142_midi062.opus",
+      "name": "slice_0142_midi062",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0142_midi062.opus",
+      "size": 8955
+    },
+    {
+      "file": "slice_0144_midi056.opus",
+      "name": "slice_0144_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0144_midi056.opus",
+      "size": 30747
+    },
+    {
+      "file": "slice_0175_midi064.opus",
+      "name": "slice_0175_midi064",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0175_midi064.opus",
+      "size": 3453
+    },
+    {
+      "file": "slice_0203_midi072.opus",
+      "name": "slice_0203_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0203_midi072.opus",
+      "size": 3470
+    },
+    {
+      "file": "slice_0253_midi057.opus",
+      "name": "slice_0253_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0253_midi057.opus",
+      "size": 35613
+    },
+    {
+      "file": "slice_0261_midi055.opus",
+      "name": "slice_0261_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzbow/main/slice_0261_midi055.opus",
+      "size": 4346
+    }
+  ],
+  "quality": {
+    "sampleRate": 22050,
+    "duration": 656.0,
+    "dcOffset": 1.9e-05,
+    "peakAmplitude": 0.5718,
+    "noiseFloorDb": -48.7,
+    "noiseFloorRms": 0.003659,
+    "dynamicRangeDb": 43.9,
+    "silenceRatio": 0.3716,
+    "clippedSamples": 0,
+    "clipRatio": 0.0,
+    "clipRuns": 0,
+    "clickCount": 126,
+    "humFrequencies": [
+      60
+    ],
+    "qualityScore": 60
+  }
+}
